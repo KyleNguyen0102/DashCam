@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_places_api">AIzaSyCar_mTvpwEOcuCeBUtJInCcn-yiEh-jjo</string>
+    <string name="search_around">Search Around</string>
+    <string name="google_places_http">https://maps.googleapis.com/maps/api/place/nearbysearch/json?</string>
+</resources>
