@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DashCam</string>
+    <string name="str_001">Demo record video</string>
+    <string name="str_002">Demo map</string>
 </resources>
