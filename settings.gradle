@@ -1,1 +1,1 @@
-include ':app', ':RecordVideo'
+include ':app', ':RecordVideo', ':connectivity', ':base'

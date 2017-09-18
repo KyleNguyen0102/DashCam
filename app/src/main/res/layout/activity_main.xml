@@ -24,4 +24,13 @@
         android:layout_marginTop="82dp"
         android:text="@string/str_002" />
 
+    <Button
+        android:id="@+id/demoConnectivityBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_003"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/demoRecordVideoBtn"
+        android:layout_marginBottom="103dp" />
+
 </RelativeLayout>

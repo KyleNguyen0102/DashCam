@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/DashCam.iml" filepath="$PROJECT_DIR$/DashCam.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecordVideo/RecordVideo.iml" filepath="$PROJECT_DIR$/RecordVideo/RecordVideo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connectivity/connectivity.iml" filepath="$PROJECT_DIR$/connectivity/connectivity.iml" />
     </modules>
   </component>
 </project>
